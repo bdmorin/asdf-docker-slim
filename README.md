@@ -7,7 +7,7 @@
 ## Install
 
 ```shell
-asdf plugin-add docker-slim https://github.com/everpeace/asdf-docker-slim.git
+asdf plugin-add docker-slim https://github.com/bdmorin/asdf-docker-slim.git
 ```
 
 ## Use
